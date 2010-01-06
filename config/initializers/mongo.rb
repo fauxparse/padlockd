@@ -1,0 +1,1 @@
+MongoMapper.database = "padlockd-#{Rails.env}"
